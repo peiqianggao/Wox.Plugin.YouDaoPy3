@@ -21,6 +21,7 @@ def query(search):
             # parse content
             res_list = list()
             url = None
+            pron = None
             trs = json_res.get('translation')
             basic = json_res.get('basic')
             web = json_res.get('web')
@@ -47,4 +48,4 @@ def query(search):
 
 
 if __name__ == '__main__':
-    print(query('good'))
+    print(query('算法'))
