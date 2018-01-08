@@ -1,0 +1,12 @@
+{
+    "ID": "CE060F52F42711E797BC68F7283FB047",
+    "ActionKeyword": "s",
+    "Name": "有道中英/英中翻译Py3",
+    "Description": "有道词典中英翻译",
+    "Author": "Gaopq",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "git@github.com:peiqianggao/Wox.Plugin.YouDaoPy3.git",
+    "ExecuteFileName": "main.py",
+    "IcoPath": "images/youdao.ico"
+}
